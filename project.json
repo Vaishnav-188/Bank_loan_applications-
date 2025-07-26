@@ -4,6 +4,8 @@
   "description": "project",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Mail.Activities": "[2.3.0-preview]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.3.1-preview]",
     "UiPath.System.Activities": "[25.4.4]"
   },
   "webServices": [],
